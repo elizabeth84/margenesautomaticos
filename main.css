@@ -1,0 +1,20 @@
+.contorno{
+	width:1000px;
+	border:3px solid #6E6E6E;
+	padding: 3px 14px 9px 3px;
+}
+.bloque1, .bloque2{
+	width:200px;
+	border:15px solid #F4FA58;
+	display:inline-block;
+	padding:15px;
+	margin:5px;
+}
+.bloque1{
+	margin-left:14px;
+	margin-bottom: 200px;
+}
+.bloque2{
+	margin-left:401px;
+	margin-top: -180px;
+}
